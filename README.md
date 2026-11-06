@@ -1,6 +1,6 @@
 # 📡 Customer Churn Predictor
 
-**Live app:** https://your-app.streamlit.app
+**Live app:** https://customer-churn-predictor-ml-project-f5st5j72rvuhwcnlpy9qrt.streamlit.app/
 
 Predicts which telecom customers are likely to leave, and suggests actions to keep them.
 Built for the PSEB Artificial Intelligence Bootcamp (Business ML Activity).
